@@ -61,4 +61,4 @@ func Addref(x *int) {
 }
 
 //path to run in terminal followed with 'go run passby.go'
-//C:\Users\hi\OneDrive\Documents\GitHub\Go_lecture\passby.go
+//shown in VSCode 
