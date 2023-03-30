@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "641dde51908f9f41e5e572c9"
+  },
+  "Name": "Palak Goel",
+  "Hobby": "Commentary",
+  "Location": "India",
+  "Profession": "Data Scientist",
+  "Sno": 1
+},{
+  "_id": {
+    "$oid": "641de032908f9f41e5e572cd"
+  },
+  "Name": "Anshul Sehgal",
+  "Hobby": "Hiking",
+  "Location": "UK",
+  "Profession": "AI Researcher",
+  "Sno": 2
+},{
+  "_id": {
+    "$oid": "641de047908f9f41e5e572ce"
+  },
+  "Name": "Reet Bhatia",
+  "Hobby": "Podcasting",
+  "Location": "Nepal",
+  "Profession": "Editor",
+  "Sno": 3
+},{
+  "_id": {
+    "$oid": "641de04e908f9f41e5e572cf"
+  },
+  "Name": "Hia Sehgal",
+  "Hobby": "Swimming",
+  "Location": "India",
+  "Profession": "Business Analyst",
+  "Sno": 4
+},{
+  "_id": {
+    "$oid": "641de051908f9f41e5e572d0"
+  },
+  "Name": "Ishaan Bhatia",
+  "Hobby": "Video Editing",
+  "Location": "USA",
+  "Profession": "Software Developer",
+  "Sno": 5
+}]
